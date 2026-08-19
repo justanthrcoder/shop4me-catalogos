@@ -1,0 +1,1075 @@
+﻿1,,,,Limpieza de protesis dentales
+2,,,,Hidratante
+3,,,,Topico para verrugas
+4,,,,Antibiotico
+5,,,,Trat.halitosis
+6,,,,Hidratante Protector solar
+7,,,,Autocontrol diabetes/colester
+8,,,,Flebotonico
+9,,,,Termodetector de celulitis
+10,,,,Antimicotico
+11,,,,Biorregulador cutaneo
+12,,,,Antiseptico
+13,,,,Solucion viscoelastica
+14,,,,Antioxidante Fotoprotector
+15,,,,Inmunosupresor
+16,,,,Calciterapico
+17,,,,Control Accutrend GC
+18,,,,Producto alimenticio
+19,,,,Anabolico
+20,,,,Control glucosa
+21,,,,Analgesico
+22,,,,Anestesico
+23,,,,Anorexigeno
+24,,,,Antiflatulento
+25,,,,Antiacido
+26,,,,Antiagregante plaquetario
+27,,,,Antialergico
+28,,,,Antianemico
+29,,,,Antiarritmico
+30,,,,Antiartrosico
+31,,,,Antiasmatico
+32,,,,Anticelulitico
+33,,,,Control colesterol
+34,,,,Anticoagulante
+35,,,,Anticolinergico
+36,,,,Anticonceptivo
+37,,,,Anticonvulsivo
+38,,,,Antidiarreico
+39,,,,Laxante de contacto
+40,,,,Antihistaminico Corticoster.
+41,,,,Antiemetico
+42,,,,Antiespasmodico
+43,,,,Antifatigante
+44,,,,Antimicotico Antiseborreico
+45,,,,Antiinfeccioso urinario
+46,,,,Antigotoso
+47,,,,Antigripal
+48,,,,Antiheparinico
+49,,,,Antihemorragico
+50,,,,Antihemorroidal
+51,,,,Antimiastenico
+52,,,,Antihistaminico
+53,,,,Antiinflamatorio
+54,,,,Autocontrol diabetes
+55,,,,Antineoplasico
+56,,,,Antimigrañoso
+57,,,,Antipruriginoso
+58,,,,Antiparasitario
+59,,,,Antiparkinsoniano
+60,,,,Antirreumatico
+61,,,,Antiseptico vaginal
+62,,,,Antiseborreico
+63,,,,Antihipertiroideo
+64,,,,Antitoxico
+65,,,,Antitusivo Expectorante
+66,,,,Antiulceroso
+67,,,,Antivaricoso
+68,,,,Antiosteoporotico
+69,,,,Analgesico Antisep.bucofar.
+70,,,,Activador metabolico muscular
+71,,,,Cardiotonico
+72,,,,Antidiarreico Antiflatulento
+73,,,,Citostatico
+74,,,,Antihemorroidal Antiinflamat.
+75,,,,Balsamico
+76,,,,Colagogo
+77,,,,Coleretico
+78,,,,Inmunoterapia pasiva
+79,,,,Corticosteroide
+80,,,,Regularizador femenino
+81,,,,Dermatologico
+82,,,,Vacuna antisarampionosa
+83,,,,Digestivo
+84,,,,Lubricante Suavizante
+85,,,,Diuretico
+86,,,,Edulcorante
+88,,,,Oxigenador pulmonar
+89,,,,Formula de inicio
+90,,,,Estrogenoterapia
+91,,,,Evacuante intestinal
+92,,,,Injerto oseo osteoconductor
+93,,,,Fibrinolitico
+94,,,,Laxante Lubricante
+95,,,,Gonadotropinoterapia
+96,,,,Heparinoide
+97,,,,Hepatoprotector
+98,,,,Hiperglucemiante
+99,,,,Formula de continuacion
+100,,,,Trat.topico de la rosacea
+101,,,,Hipocolesterolemiante
+102,,,,Hipolipemiante
+103,,,,Hipoglucemiante
+104,,,,Antagonista benzodiazepinico
+105,,,,Laxante Digestivo
+106,,,,Vacuna antitifica
+107,,,,Inductor ovulacion
+108,,,,Inmunomodulador
+109,,,,Bronceador
+110,,,,Inmunoestimulante
+111,,,,Flebotrofico
+112,,,,Gastrocinetico
+113,,,,Antiisquemico celular
+114,,,,Esclerosante
+115,,,,Formula para prematuros
+116,,,,Ocitocico
+117,,,,Lipolitico
+118,,,,Mucolitico
+119,,,,Neuroleptico
+120,,,,Reconstituyente flora intest.
+121,,,,Simpaticolitico
+122,,,,Antibacteriano Cicatrizante
+123,,,,Diuretico Antihistaminico
+124,,,,Pantalla solar
+125,,,,Topico gingival
+126,,,,Medio de diagnostico
+127,,,,Orexigeno
+128,,,,Antivertiginoso
+129,,,,Ectoparasiticida
+130,,,,Neurorregenerador
+131,,,,Bloqueante alfa-1 selectivo
+132,,,,Trat.dermatitis del pañal
+133,,,,Antiarrugas
+134,,,,Formula hipoalergenica
+135,,,,Estimulante del tej.conjuntivo
+136,,,,Antibacteriano Antiinflam.
+137,,,,Epitelizante Regenerador
+138,,,,Quimioterapico
+139,,,,Revitalizante Antiastenico
+140,,,,Citoprotector
+141,,,,Mejorador calidad de la piel
+142,,,,Rehidratante oral
+143,,,,Antiinfeccioso Antibiotico
+144,,,,Hipnotico no barbiturico
+145,,,,Antiosteolitico
+146,,,,Uterotonico
+147,,,,Simpaticomimetico
+148,,,,Repelente de insectos
+149,,,,Quimioterapico Expectorante
+150,,,,Protector labial
+151,,,,Hormonosupresor
+152,,,,Vasorregulador Antioxidante
+153,,,,Soluciones parenterales
+154,,,,Aplicador de insulina
+155,,,,Dermoaclarante
+156,,,,Suplemento nutricional
+157,,,,Vacuna
+158,,,,Vasodilatador
+159,,,,Antibiotico Antineoplasico
+160,,,,Tonificante muscular
+161,,,,Tricomonicida
+162,,,,Procinetico esofagico
+163,,,,Antisarro Anticaries
+164,,,,Vacuna antiacneica
+165,,,,Limpieza capilar
+166,,,,Vasodilatador periferico
+167,,,,Prevencion reinfest.piojos
+168,,,,Refrescante de la piel
+169,,,,Analgesico Rubefaciente
+170,,,,Test de embarazo
+171,,,,Medio de contraste no ionico
+172,,,,Antiinflam.prostatico
+173,,,,Activador cerebral
+174,,,,Farmaco antiobesidad no sistem.
+175,,,,Broncodilatador
+176,,,,Cicatrizante
+177,,,,Antitusivo Balsamico
+178,,,,Nutricion esp.p/HIV o SIDA
+179,,,,Blanqueador dental
+180,,,,Antihipertensivo
+181,,,,Antibacteriano
+182,,,,Antineuritico
+183,,,,Venotonico
+184,,,,Antiprostatico
+185,,,,Antidepresivo
+186,,,,Nutricion p/pacientes renales
+187,,,,Ansiolitico
+188,,,,Antitusivo
+190,,,,Inhibidor fotoenvejecimiento
+191,,,,Anhidrotico
+192,,,,Antiedematoso
+193,,,,Anticaspa
+195,,,,Hipoalergenico
+196,,,,Vacuna contra el colera
+197,,,,Antianginoso
+198,,,,Bioestimulante
+199,,,,Descongestivo prostatico
+200,,,,Antibiotico Tuberculostatico
+201,,,,Modulador 1º tiempo digestion
+202,,,,Sustituto lacrimal
+203,,,,Test rapido de diagn.cardiaco
+204,,,,Pediculicida
+205,,,,Descongestivo nasal y ocular
+206,,,,Factor estim.crec.granulocitos
+207,,,,Estimulante crec.faneras
+208,,,,Nutricion isotonica balanceada
+209,,,,Fitoterapico
+210,,,,Relajante muscular
+211,,,,Antilitogenico Litolitico
+212,,,,Regulador sueño-vigilia
+213,,,,Descongestivo
+214,,,,Antibacteriano intestinal
+215,,,,Bactericida
+216,,,,Miorrelajante colonico
+217,,,,Biosensor de glucosa
+218,,,,Inmunizacion antitetanica
+219,,,,Trat.hiperpotasemia
+220,,,,Trat.sindrome premenstrual
+221,,,,Higiene personal
+222,,,,Humectante
+223,,,,Hidratante Nutriente dermico
+224,,,,Progestageno
+225,,,,Solucion p/lavado intestinal
+226,,,,Hipertensor
+227,,,,Laxante
+228,,,,Expectorante
+229,,,,Vasodilatador cerebral
+230,,,,Solucion cardioplejica
+231,,,,Antitrombotico
+232,,,,Antiviral
+233,,,,Rocio vegetal oleoso
+234,,,,Vasoactivador cerebral
+235,,,,Midriatico
+236,,,,Lubricante
+237,,,,Lubricante vaginal
+238,,,,Betabloqueante
+239,,,,Bioenergizante
+240,,,,Antiherpetico
+241,,,,Limpiador enzimatico
+242,,,,Desinfectante
+243,,,,Trat.de la obesidad
+244,,,,Tricogenetico Antiseborreico
+245,,,,Digestivo enzimatico
+246,,,,Antiestrogenico
+248,,,,Antibiotico vaginal
+249,,,,Antialergico Antiinflamatorio
+250,,,,Antioxidante Protector dermico
+251,,,,Electrolito Regulador
+252,,,,Antiinflam.Antipruriginoso
+253,,,,Protector solar
+254,,,,Vacuna contra hepatitis B
+255,,,,Energizante masculino
+256,,,,Trat.p/pieles intolerantes
+257,,,,Antiglaucomatoso
+258,,,,Antibiotico Descongest.
+259,,,,Antiseptico Desinfectante
+260,,,,Limpiador p/piel acneica
+261,,,,Deteccion sangre en mat.fecal
+262,,,,Surfactante pulmonar
+263,,,,Antibiotico Anestesico bucof.
+264,,,,Timoleptico
+265,,,,Antiacneico
+266,,,,Inmunoterapia oral
+267,,,,Anticatarata
+268,,,,Sal bajo cont.en sodio
+269,,,,Evita el contagio de piojos
+270,,,,Reconstituyente
+271,,,,Antibiotico Analgesico
+272,,,,Cicloplejico
+273,,,,Ansiolitico Neuroleptico
+274,,,,Trat.retencion urinaria
+275,,,,Inhibidor de la proteasa
+276,,,,Contraste radiologico
+277,,,,Higiene de parpados
+278,,,,Anestesico gral.
+279,,,,Terapeutica prostatica
+280,,,,Coadyuvante en oncologia
+282,,,,Normalizador de la mucosa
+283,,,,Complemento dietario
+284,,,,Crema dental
+285,,,,Depresor del musc.liso
+286,,,,Crema intima masculina
+287,,,,Anticariogenico
+288,,,,Vacuna conj.Haemophilus b
+289,,,,Antiastenico
+290,,,,Vacuna antitricomoniasica
+291,,,,Hipnotico
+292,,,,Higiene facial
+293,,,,Antidispeptico Antiemetico Antin
+294,,,,Neurorregulador
+295,,,,Antihelmintico
+296,,,,Vacuna contra hepatitis A
+297,,,,Hemostatico
+298,,,,Anticelulitico Reductor
+299,,,,Antidiabetico
+300,,,,Antagonista de narcoticos
+301,,,,Antigiardiasico
+302,,,,Antigripal Expectorante
+303,,,,Filtro solar
+304,,,,Antiespasmodico Colagogo
+305,,,,Desensibilizante
+306,,,,Quelante
+307,,,,Antiseptico Cicatrizante
+308,,,,Reposicion de potasio
+309,,,,Acelerador de bronceado
+310,,,,Vacuna antirrabica
+311,,,,Rehidratante Energizante
+312,,,,Vacuna antipoliomielitica
+313,,,,Antiprotozoario
+314,,,,Antiandrogeno
+315,,,,Factor de difusion tisular
+316,,,,Vacuna antirrubeolica
+317,,,,Vacuna antiparotidica
+318,,,,Acidificante urinario
+319,,,,Solucion bucal
+320,,,,Laxante Diuretico
+321,,,,Suplemento mineral
+322,,,,Antipsoriasico
+323,,,,Antiinfeccioso
+324,,,,Antitricomoniasico
+325,,,,Nutricion p/pacientes diabeticos
+326,,,,Hormonoterapia
+327,,,,Inmunizacion pasiva
+328,,,,Hipoglucemiante oral
+329,,,,Antialopecico
+330,,,,Antihipotensor
+331,,,,Antiplaca Antisarro
+332,,,,Disposit.p/fisioterapia resp.
+333,,,,Antigonadotropico
+334,,,,Control Precision QID
+335,,,,Digitopunzor
+336,,,,Antiviral contra virus gripe
+337,,,,Antiacneico Antiseborreico
+338,,,,Test de fertilidad
+339,,,,Control Accutrend Sensor
+340,,,,Neuroprotector
+341,,,,Regulador intestinal
+342,,,,Anticardiotoxico
+343,,,,Antiacneico Antipruriginoso
+344,,,,Trat.litiasis renal
+345,,,,Citoprotector gastrico
+346,,,,Suplemento dietario
+347,,,,Antiespastico
+348,,,,Antiulceroso Antihelicobacter
+349,,,,Descongestivo Antihistaminico
+350,,,,Hipotensor ocular
+351,,,,Protector funcion visual
+352,,,,Medio de contraste p/RMN
+353,,,,Analgesico Antirreumatico
+354,,,,Formula p/lactant.antireflujo
+355,,,,Determ.glucosuria/cetonuria
+356,,,,Antihipertensivo Diuretico
+357,,,,Antiosteoporotico Antianemico
+358,,,,Vasodilatador coronario
+359,,,,Test p/Helicobacter pylori
+360,,,,Antiacido Antiulceroso
+361,,,,Trat.de estrias
+362,,,,Diag.de amenorreas
+363,,,,Reductor
+364,,,,Analgesico topico Antiinfl.
+365,,,,Antiseptico Anestesico
+366,,,,Tonificante venoso capilar
+367,,,,Regenerador capilar
+368,,,,Crema dental Antisarro
+369,,,,Crema dental p/dien.sensibles
+370,,,,Antiplaca Antisarro Refresc.
+371,,,,Antitrombotico Vasodilatador
+372,,,,Productos homeopaticos
+373,,,,Corticosteroide oftalmico
+374,,,,Factor recombinante humano
+375,,,,Vacuna contra la varicela
+376,,,,Trat.neumonia por P.carnii
+377,,,,Nutriente Restaurador
+378,,,,Acaricida ambiental
+379,,,,Sedante
+380,,,,Antiprostatico Antihipertens.
+381,,,,Exfoliante
+382,,,,Suavizante p/manos y cuerpo
+383,,,,Trat.de cicatrices
+384,,,,Gastrocinetico Antiflatulento
+385,,,,Humectante Astringente
+386,,,,Antibiotico urinario
+387,,,,Crema dental p/fumadores
+388,,,,Queratolitico
+389,,,,Humectante de parpados
+390,,,,Antidiuretico
+391,,,,Suplemento de iodo
+392,,,,Suplemento electrolitico
+393,,,,Reconstituyente Vasodil.cereb.
+394,,,,Inhibidor de la melanogenesis
+395,,,,Corrector signos envejecimiento
+396,,,,Analgesico Miorrelaj.
+397,,,,Antiinfeccioso Antiinflamat.
+398,,,,Lubricante ocular
+399,,,,Transmetilante
+401,,,,Trombolitico
+402,,,,Trat.pediculosis
+403,,,,Anovulatorio
+404,,,,Analgesico Antiacido
+405,,,,Antidoto organofosforados
+406,,,,Antiepileptico
+407,,,,Productos odontologicos
+408,,,,Accesorios
+409,,,,Soluciones glucosadas
+410,,,,Soluciones fisiologicas
+411,,,,Agua destilada
+412,,,,Dermatocosmeticos
+413,,,,Antileucemico
+414,,,,Soluciones cloruradas
+415,,,,Dispositivos especiales
+416,,,,Tisanas
+417,,,,Profilacticos
+418,,,,Antipaludico
+419,,,,Nootropico
+420,,,,No clasificada
+421,,,,Antianginoso Vasodil.coron.
+422,,,,Productos para contactologia
+423,,,,Cicatrizante Anestesico
+424,,,,Tos,dolor de garganta
+425,,,,Formula p/lactantes s/lactosa
+426,,,,Polivitaminico
+427,,,,Antiseptico Hemostatico
+428,,,,Terap.horm.reemp.p/climaterio
+429,,,,Antitabaquico
+430,,,,Antiinflam.Citoprotector
+431,,,,Crema evanescente
+432,,,,Vacuna antitetanica
+433,,,,Analgesico Antiinflam.
+434,,,,Accesorio radiologico
+435,,,,Antiseptico bucofaringeo
+436,,,,Inhibidor d/aldosa reductasa
+437,,,,Estroprogestacional
+438,,,,Antihistaminico Mucolitico
+439,,,,Removedor de callos
+440,,,,Protector de la mucosa
+441,,,,Descongestivo dermico
+442,,,,Antiactinico
+443,,,,Estimulante SNC
+444,,,,Desodorante
+445,,,,Trat.menopausia
+446,,,,Corticosteroide Antimicrobiano
+447,,,,Formula infantil
+448,,,,Humectante vaginal
+449,,,,Micronutrientes Electrolitos
+450,,,,Micronutrientes Oligoelementos
+451,,,,Hipnosedante Anticonvulsivo
+452,,,,Hipnosedante
+453,,,,Regulador calcemia
+454,,,,Somatotropico
+455,,,,Trat.alcoholismo
+456,,,,Antiisquemico Antianginoso
+457,,,,Trat.disfuncion sexual masc.
+458,,,,Normalizador de la potasemia
+459,,,,Depurativo
+460,,,,Digestivo Ansiolitico
+462,,,,Adelgazante
+463,,,,Antioxidante
+464,,,,Supl.diet.p/hombres/Red.grasas
+465,,,,Estimulante secrec.salival
+466,,,,Medio de contraste p/IRM
+467,,,,Antiespasmodico Sedante
+468,,,,Higiene de la piel
+469,,,,Trat.carcinoma de vejiga
+470,,,,Analgesico topico
+471,,,,Expansor coloidal
+472,,,,Coadyuvante coagulacion
+473,,,,Trat.angioedema hereditario
+474,,,,Antianemico Antineuritico
+475,,,,Trat.cistitis intersticial
+476,,,,Adhesivo Hemostatico
+477,,,,Antialergico ocular
+478,,,,Antiacido Antiespasm.
+479,,,,Antibiotico Antiulceroso
+480,,,,Trat.polineuritis diabetica
+481,,,,Vacuna antineumococcica
+482,,,,Trat.estrias/grietas del pezon
+483,,,,Vitaminico
+484,,,,Cicatrizante Antibiotico
+485,,,,Contraste p/ecografia
+486,,,,Bactericida Antipruriginoso
+487,,,,Vacuna SRP (saramp/rubeol/paper)
+488,,,,Expectorante Balsamico
+489,,,,Balsamico Descongestivo
+490,,,,Antialergico Antipruriginoso
+491,,,,Crema ungueal
+492,,,,Androgenoterapia
+493,,,,Para dejar de morderse las uñas
+494,,,,Antiinflam.Antirreumatico
+495,,,,Miorrelajante
+496,,,,Afirmante Antiflaccidez
+497,,,,Antieccematoso
+498,,,,Polivitaminico Polimineral
+499,,,,Bactericida Expectorante
+501,,,,Antirronquido
+502,,,,Revelador de placa bacteriana
+503,,,,Art.p/prep.agua dialitica
+504,,,,Antiinflam.Descongestivo
+505,,,,Diag./Trat.disfun.piso pelviano
+506,,,,Descongestivo oftalmico
+508,,,,Hormonoterapia antineoplasica
+509,,,,Vacuna contra hepatitis A y B
+510,,,,Reconstituyente psicointelec.
+511,,,,Reactivador cerebrovascular
+512,,,,Inhibidor alcoholico
+513,,,,Inmunoterapia activa
+514,,,,Estimulante cort.suprarrenal
+515,,,,Antianginoso Antihipertensivo
+516,,,,Antiinflam.Queratolitico
+517,,,,Analgesico Antifebril
+518,,,,Protector dermico
+519,,,,Analgesico Refrigerante
+520,,,,Regulador neurovegetativo
+521,,,,Colecistocinetico
+522,,,,Trat.gripe/Inhib.oral neuramin.
+523,,,,Expectorante Mucolitico
+524,,,,Antibiotico Expectorante
+525,,,,Antipsoriasico Antieccematoso
+526,,,,Antibiotico oftalmico
+527,,,,Alimento infantil
+528,,,,Emoliente
+529,,,,Antimicrobiano
+530,,,,Antiseptico Astringente
+531,,,,Antiseptico Balsamico
+532,,,,Antihistaminico Antitusivo
+533,,,,Antibiotico Balsamico
+534,,,,Antitusivo Mucolitico
+535,,,,Ansiolitico Anticonvulsivo
+536,,,,Energizante psicofisico
+537,,,,Trat.vejiga hiperactiva
+538,,,,Antibiotico Antiinfl.Antimicot.
+539,,,,Inhibidor secr.prolactina
+540,,,,Nutriente dermico
+541,,,,Disminuye rechazo transp.renal
+543,,,,Analgesico Antiespasmodico
+544,,,,Antidispeptico biliar
+545,,,,Anabolico Hipocolesterol.
+546,,,,Antibiotico Broncodilatador
+547,,,,Antiacido Antiemetico
+548,,,,Antiespasmodico vesical
+549,,,,Anestesico local
+550,,,,Antiespasmodico Antiflatulento
+551,,,,Trat.llagas/aftas
+552,,,,Leche p/embarazadas
+553,,,,Formula p/lactantes
+554,,,,Regulador del metabol.oseo
+555,,,,Anestesico topico
+556,,,,Descongestivo Antialergico nasal
+557,,,,Antialergico Descongestivo
+558,,,,Vasodilatador cereb.y perif.
+559,,,,Antibiotico Mucolitico
+560,,,,Removedor de cerumen
+561,,,,Colagogo Coleretico
+562,,,,Analgesico Antineuritico
+563,,,,Red.grasas/Tonif.muscular
+564,,,,Laxante Antiacido
+565,,,,Cuidado de heridas
+566,,,,Inhibidor de la conv.testost.
+567,,,,Test de ovulacion
+568,,,,Antiinflam.Analgesico.Miorrelaja
+569,,,,Antiinflam.intestinal
+570,,,,Trombolitico Antiinflamatorio
+571,,,,Vasorregulador
+572,,,,Antiseptico Bactericida
+573,,,,Anticaspa Antiseborreico
+574,,,,Detersivo
+575,,,,Enjuague bucal Antisarro
+576,,,,Antihemofilico
+577,,,,Analgesico otico
+578,,,,Ansiolitico Antidepresivo
+579,,,,Hipnotico Tranquilizante
+580,,,,Higiene femenina
+581,,,,Astringente
+582,,,,Trat.enf.de Paget
+583,,,,Descongestivo nasal
+584,,,,Nutricion enteral
+585,,,,Antibiotico Corticosteroide
+586,,,,Espermicida
+587,,,,Anestesico Refrigerante
+588,,,,Antibiotico Antiinfl.
+589,,,,Antiparasitario externo
+590,,,,Antistress
+591,,,,Tonico del musc.ciliar
+592,,,,Medio de contraste p/ultrasonido
+593,,,,Antiflogistico Analg.percutaneo
+594,,,,Antiseptico ocular
+595,,,,Ansiolitico Antiespasm.
+596,,,,Sistema administ.transdermal
+597,,,,Trat.de la hepatitis C cronica
+598,,,,Evacuante vesicular
+599,,,,Anorexigeno Lipolitico
+600,,,,Antiviral contra HIV
+601,,,,Antidiarreico Quimioterapico
+602,,,,Trat.contractura lumbar cronica
+603,,,,Antiinflam.topico
+604,,,,Trat.hipersensibilidad dental
+605,,,,Inductor del parto
+606,,,,Terapeutica tiroidea
+607,,,,Antiacido Antiflatulento
+608,,,,Antiemetico Antiflatulento
+609,,,,Digestivo Antidispeptico
+610,,,,Digestivo Antiflatulento
+611,,,,Antibacteriano topico
+612,,,,Neuroleptico Antihistaminico
+613,,,,Coadyuvante en anestesia
+614,,,,Quimioterapico urinario
+615,,,,Alfabloqueante Vasodilatador
+616,,,,Tricomonicida Amebicida
+617,,,,Antiinflam.oftalmico
+618,,,,Flebotonico Antihemorroidal
+619,,,,Inductor del sueño
+620,,,,Agonista dopaminergico
+621,,,,Miotico
+622,,,,Antiinflam.Bactericida vaginal
+623,,,,Determinacion de glucosuria
+624,,,,Analgesico Antibiotico otico
+625,,,,Tricomonicida Antimicotico
+626,,,,Antiseborreico Astringente
+627,,,,Antirreumatico Inmunomodulador
+628,,,,Desodorante pedico
+629,,,,Reconstituyente dermico
+630,,,,Normalizador neuromuscular
+631,,,,Vasculoprotector
+632,,,,Antibiotico topico
+633,,,,Vacuna antigripal
+634,,,,Anestesico inhalatorio
+635,,,,Nutricion parenteral
+636,,,,Mucolitico oftalmico
+637,,,,Antineuralgico Antianemico
+638,,,,Antichagasico
+639,,,,Vacuna anticatarral
+640,,,,Hipolipemiante Hipoglucemian.
+641,,,,Hidratante dermico
+642,,,,Agonista LHRH
+643,,,,Antimicotico Antiinflamatorio
+644,,,,Alimento dietetico
+645,,,,Antiescaras
+646,,,,Antiseptico urinario
+647,,,,Antipitiriasico
+648,,,,Antiemetico Sedante
+649,,,,Hipnoanalgesico
+650,,,,Fort.leche materna p/prematuros
+651,,,,Bactericida Mucolitico
+652,,,,Broncodilatador Mucolitico
+653,,,,Midriatico Vasoconstrictor
+654,,,,Analg.Antib.Antisep.bucofaringeo
+655,,,,Antibiotico Antialergico
+656,,,,Antimicotico Antialergico
+657,,,,Prev.enf.resp.por VSR en niños
+658,,,,Relajante uterino
+659,,,,Hipolipemiante Antihipertens.
+660,,,,Antialergico Antihistaminico
+661,,,,Antipruriginoso Ansiolitico
+662,,,,Inmunizacion activa
+663,,,,Reg.eritrosis cutanea
+664,,,,Desensibilizante gingival
+665,,,,Digestivo Hepatoprotector
+666,,,,Soluc.nat.contra piojos/liendres
+667,,,,Aposito biologico
+668,,,,Antiulceroso Anti-reflujo
+669,,,,Agente inotropico positivo
+670,,,,Antimicotico topico
+671,,,,Analgesico Descongestivo
+672,,,,Activador metabolico celular
+673,,,,Parasimpaticomimetico
+674,,,,Antiinflam.bucofaringeo
+675,,,,Aceite para masajes musculares
+676,,,,Antipsicotico
+677,,,,Aromaterapia
+678,,,,Antitusivo Broncodilatador
+679,,,,Analgesico Antigripal
+680,,,,Vacuna antituberculosa
+681,,,,Vacuna triple
+682,,,,Vacuna doble
+683,,,,Reconstituyente gral.
+684,,,,Corticosteroide topico
+685,,,,Vacuna quintuple
+686,,,,Espesante instant.p/alimentos
+687,,,,Cicatrizante corneal
+688,,,,Antibiotico Antiinfl.Anest.
+689,,,,Vacuna quintuple acelular
+690,,,,Vacuna triple acelular
+691,,,,Abrasivo de limpieza
+692,,,,Sedante Ansiolitico
+693,,,,Antimicotico Antibacteriano
+694,,,,Adhesivo p/protesis dentales
+695,,,,Lactoquinetico
+696,,,,Vacuna cuadruple
+697,,,,Antiseptico bucal
+698,,,,Balsamo labial preventivo
+699,,,,Control Glucotrend 2
+700,,,,Antibiotico orofaringeo
+701,,,,Inmunoterapia respiratoria
+702,,,,Energizante masc/fem.Supl.diet.
+703,,,,Queratolitico Queratoplastico
+704,,,,Trat.artritis reumatoidea
+705,,,,Antianginoso Diuretico
+706,,,,Revitalizador Humectante
+707,,,,Protector rayos U.V.
+708,,,,Sustituto enzimas pancreaticas
+710,,,,Vitaminoterapia d
+711,,,,Aguja p/aplicador de insulina
+712,,,,Trat.enf.fibroquist.pancreas
+713,,,,Preservativo femenino
+714,,,,Agente estimulante osteoblastico
+715,,,,Descongestivo Inmunogenico
+716,,,,Coleretico Espasmolitico
+717,,,,Vacuna antimeningococcica
+718,,,,Analgesico urinario
+719,,,,Test cutaneo
+720,,,,Reconstituyente neuronal
+721,,,,Freno a las calorias
+722,,,,Saliva artificial
+723,,,,Lavaje gastrointestinal
+724,,,,Factor estimulante plaquetario
+725,,,,Inmunoterapico biologico
+726,,,,Hipouricemiante
+727,,,,Nutricion semielemental
+728,,,,Enjuague bucal Antiplaca
+729,,,,Nutricion elemental
+730,,,,Antiviral Antibacteriano
+731,,,,Humect.facial c/prot.solar
+732,,,,Endoceptivo
+733,,,,Antibiotico oftalm.Descong.
+734,,,,Antibiotico Antimicotico
+735,,,,Cerumenolitico Otoprotector
+736,,,,Activador metabolico cerebral
+737,,,,Expectorante Descongest.nasal
+738,,,,Film de poliuretano
+739,,,,Trat.ulceras art.y venosas
+741,,,,Trat.artritis reumat.y enf.Crohn
+742,,,,Alimento funcional
+743,,,,Antianemico Polivitaminico
+744,,,,Antiplaquetario Vasodilatador
+745,,,,Antiinflam.Antineuritico
+746,,,,Dieta elemental c/glutamina
+747,,,,Trat.de la constipacion
+748,,,,Agente despertador no anfetam.
+749,,,,Control Glucotrend 2 Plus
+750,,,,Trat.fragilidad cabellos/uñas
+751,,,,Trat.enf.Alzheimer
+752,,,,Antiseptico respiratorio
+753,,,,Higiene vaginal
+754,,,,Relajante neuromuscular
+755,,,,Analgesico Anticefaleico
+756,,,,Dinamizante fisiologico
+757,,,,Test de alcoholemia
+758,,,,Film celulosa microfibrilar
+759,,,,Potabilizador biologico de agua
+760,,,,Reconstituyente flora vaginal
+761,,,,Antimicotico Anticaspa
+762,,,,Antitranspirante
+763,,,,Fitoestrogenoterapia
+764,,,,Antagonista liberacion LHRH
+765,,,,Vacuna sextuple
+766,,,,Antiedematizante corneal
+767,,,,Control Envejecimiento Cutaneo
+768,,,,Antimetabolito
+769,,,,Inhibidor de la ocitocina
+770,,,,Trat.trastornos gastrointest.
+771,,,,Supl.nutricional p/cuidado piel
+772,,,,Crema dental p/encias irritadas
+773,,,,Regulador de la flora intestinal
+774,,,,Trat.de la fisura anal
+775,,,,Antivaricoso topico
+776,,,,Descongest.Antihist.Antialergico
+777,,,,Antitusivo Descong.Antihistamin.
+778,,,,Antiinflam.Corticosteroide
+780,,,,Control Accu-Chek Sensor
+781,,,,Trat.enf.de Wilson
+782,,,,Prevencion cardiovascular
+783,,,,Queratolitico/Topico p/verrugas
+784,,,,Inhibidor resorc.osteoclastica
+785,,,,Hidratante Protector piel seca
+786,,,,Inhibid.absorcion de colesterol
+787,,,,Trat.dermatitis atopica
+788,,,,Estimulador cutaneo
+789,,,,Productos de Farmacopea
+790,,,,Determ.cetonas en sangre
+791,,,,Trat.queratoconjuntivitis
+792,,,,Analgesico Diuretico Antihistam.
+793,,,,Control Ascensia Entrust
+794,,,,Trat.de la hepatitis B cronica
+795,,,,Control Accu-Chek Active
+796,,,,Regulador de la despigmentacion
+797,,,,Antipsicotico Antidepresivo
+798,,,,Reemplazante de liquido sinovial
+799,,,,Solvente indoloro
+800,,,,Antiparkinsoniano Antiviral
+801,,,,Antigripal Antihistaminico
+802,,,,Analogo hormona de crecimiento
+803,,,,Trat.hipertension arterial pulmo
+804,,,,Antirresaca
+805,,,,Trat.insuf.cardiaca
+806,,,,Antifibrinolit.Inhib.proteinasa
+807,,,,Vacuna contra gastroenteritis
+808,,,,Agente reductor de plaquetas
+809,,,,Combate 7 signos envej.facial
+810,,,,Antibiotico intest.Antidiarreico
+811,,,,Suplemento digestivo
+812,,,,Regulador de pH vaginal
+813,,,,Antagonista Endocannabinoide
+814,,,,Vacuna contra la fiebre amarilla
+815,,,,Desensibilizante Antiseptica
+816,,,,Antiacido Anestesico Topico
+817,,,,Vac.contra virus Papiloma Humano
+818,,,,Antiseptico topico Antiinfl.
+819,,,,Anticonceptivo/Supl.de Hierro
+820,,,,Antioxidante Exfoliativo
+821,,,,Vacuna contra hepat.B coadyuvada
+822,,,,Analogo sintetico de Vitamina D
+823,,,,Trat.de la cesacion tabaquica
+824,,,,Antiseptico Exfoliante
+825,,,,Desensib. Antisarro Anticaries
+826,,,,Limp.intestinal p/diag.y cirugia
+827,,,,Antitusivo Mucolitico Analgesico
+829,,,,Trat.de la hepatitis B
+830,,,,Lubricante intimo
+831,,,,Trat.anafilaxis
+832,,,,Antiulceroso Antiemetico
+833,,,,Trat.degeneracion macular(DMAE)
+834,,,,Sustituto de la sal
+835,,,,Hipolipemiante Antiag.plaquetar.
+836,,,,Neurotrofico Neuroprotector
+837,,,,Antihistaminico Descongestivo
+838,,,,Inhib.de la tirosina quinasa
+839,,,,Antiinflam.Inhib.secrec.ac.gast.
+841,,,,Fotoinmunoprotector oral
+842,,,,Descongestivo Faringeo
+843,,,,Anticelulitico Antinodulos
+844,,,,Trat.regenerador corrector
+845,,,,Exfoliante corporal
+846,,,,Reductor y reafirmante corporal
+847,,,,Estimulador de la eritropoyesis
+848,,,,Antioxidante Reconstituyente
+849,,,,Trat.combinado de HPB
+850,,,,Trat.sindrome piernas inquietas
+851,,,,Soluciones isotonicas
+852,,,,Corticosteroide nasal uso topico
+853,,,,Solucion p/dialisis peritoneal
+854,,,,Compensador hidrolipidico cap.
+855,,,,Vasopresor
+856,,,,Medio de contraste isosmolar
+857,,,,Antialdosteronico
+858,,,,Trat.de infecciones urinarias
+859,,,,Antimicotico uso sistemico
+860,,,,Vac.antimeningococcica ACYW-135
+861,,,,Antihistaminico de uso topico
+862,,,,Precursor sintesis serotonina
+863,,,,Hidratante Autobronceante
+865,,,,Antimicrobiano.Reepitaliz.vag.
+866,,,,Repelente de mosquitos
+867,,,,Tratamiento del hirsutismo
+868,,,,Analgesico Narcotico
+869,,,,Complemento vitaminico
+870,,,,Trat.de la hipertermia maligna
+871,,,,Vacuna antigripal trivalente
+872,,,,Trat.de la eyaculacion precoz
+873,,,,Antifibrinolitico.Antihemorrag.
+874,,,,Trat.de la acromegalia
+875,,,,Estimul.cicatriz.y citoprotector
+876,,,,Reafirmante modelador
+877,,,,Antiartrosico Antiinflamatorio
+878,,,,Litiasis renal
+879,,,,Sellador Quirurgico
+880,,,,Agente antidemencia
+881,,,,Vac.antimeningococcica conjugada
+882,,,,Formula lactantes hasta 6 meses
+883,,,,Form.lactante de 6 meses a 1 año
+884,,,,Antibiotico de uso inhalatorio
+885,,,,Disp.intrauterino-Preservativo
+886,,,,Trat.hipotricosis de pestañas
+888,,,,Antitusivo Expect. Mucolitico
+889,,,,Antiendometriosico
+890,,,,Fluidificante de las vias aereas
+891,,,,Antiparatiroideo
+892,,,,Antihipertensivo Hipolipemiante
+893,,,,Agente Antidisquinetico
+894,,,,Trat.p/hiperfenilalaninemia
+895,,,,Tratamiento HPB/Tratamiento DE
+896,,,,Trat.de la disfuncion erectil
+897,,,,Analgesico Antiinfl.Antifebril
+898,,,,Trat.p/CAPS
+899,,,,Alimentos propos.medico especif.
+901,,,,Trat.de la fibrosis ideopatica
+902,,,,Inhib.del factor necrosis tumora
+903,,,,Antiinfeccioso Antibacteriano
+904,,,,Ag.inmun.Vac.c/influenza
+905,,,,Polineuropatia diabetica
+906,,,,Cosmetico Capilar
+907,,,,Estimulante folicular
+908,,,,Hipnotico no benzodiazepinico
+909,,,,Inhibidor del Factor XA
+910,,,,Selenito de Sodio
+911,,,,Antialergico Corticosteroide
+912,,,,Inhibidor de la janus quinasa
+913,,,,Trat.de la tos y ronquera
+914,,,,Antagonista muscarinico
+915,,,,Estimulante sexual femenino
+916,,,,Form.p/propos.medico+antidiarre.
+917,,,,Form.p/propos.medico+antiflatul.
+918,,,,Formula hipoalergenica+trat.APLV
+919,,,,Form.p/propos.medico+trat.APLV
+920,,,,Formula p/proposito medico
+921,,,,Trat.de cicat.hipert.y queloides
+922,,,,Vacuna contra el herpes zoster
+923,,,,Vac.sextuple acelular
+924,,,,Anticonvulsivo Anticiclante
+999,,,,Pendiente
+1000,,,,Citotoxico
+1001,,,,Vacuna antitetanica/antigripal
+1002,,,,Antiinflam.respirat.Broncodil.
+1003,,,,Trat.acromegalia/tum.neuroendoc.
+1004,,,,Fijador p/protesis oseas
+1006,,,,Antiosteoporot.Hipocalcemiante
+1007,,,,Estomatologico
+1008,,,,Bloqueante neuromusc.no despol.
+1009,,,,Activador muscular
+1010,,,,Sistema de hidratacion facial
+1011,,,,Analgesico Antihistaminico
+1012,,,,Anestesico Antiinflam.
+1013,,,,Antiinfeccioso vaginal
+1014,,,,Trat.nauseas/vomitos en embarazo
+1015,,,,Trat.deficit atenc/hiperac(ADHD)
+1016,,,,Prevencion de la migraña
+1017,,,,Control del apetito
+1019,,,,Trat.del mal aliento cronico y o
+1020,,,,Trat.de la afectacion pseudobulb
+1021,,,,moviliz.de celulas madres hemato
+1022,,,,inhib.de la secrec.acida gastric
+1023,,,,Trat.de la traccion vitreomacula
+1024,,,,Anticuerpo monoclonal. Inhib. de
+1025,,,,Supl.dietario a base de Calcio y
+1026,,,,Formula de continuacion s/lactos
+1027,,,,Formula infantil s/lactosa
+1028,,,,Estimulante de la motilidad inte
+1029,,,,Protector Hepatico.Antitoxico
+1030,,,,Agonista adrenorreceptor alfa-2
+1031,,,,Inhibidor de protiosoma
+1032,,,,Trat.de la esclerosis multiple
+1033,,,,Antiemetico Antinauseoso
+1035,,,,Inhib. Neprilisina y Angiotensin
+1036,,,,Antienvejecimiento
+1037,,,,soluc.p/conservacion de organos
+1038,,,,Trat.edema macular
+1039,,,,Agente desbridante
+1040,,,,Antiangiogenico
+1041,,,,Desmaquillante/Limpieza facial
+1042,,,,Anticuerpo monoclonal humano
+1043,,,,Regenerador del Cartilago
+1044,,,,Antiartrosico+Anestesico local
+1046,,,,Analgesico central
+1047,,,,Medio de contraste hepatoespecif
+1048,,,,Suplementacion viscoelastica
+1049,,,,Facilita la fecundacion
+1050,,,,Reafirmante y fortificador el cu
+1051,,,,Humectante y Lubricante ocular
+1052,,,,Descongestivo Antifebril
+1054,,,,Trat.de miomas uterinos
+1055,,,,Trat.de ulceras
+1056,,,,Energizante psico intelectual
+1057,,,,Espuma microbicida y acaricida
+1058,,,,Antiinflamatorio. Relajante Musc
+1059,,,,Fortalecedor ungueal
+1060,,,,Agente p/constipacion
+1061,,,,Inhibidor de la betalactamasa
+1062,,,,Vacuna meningococica
+1063,,,,Antihistaminico Antileucotrieno
+1064,,,,Glucocorticoesteroide
+1065,,,,Moduladores para Fibrosis Quisti
+1066,,,,Agente reversor especifico de Da
+1067,,,,Inhib.de la proteina quinasa
+1068,,,,inhib.select.de la recapt.de ser
+1069,,,,Antibiotico y quimioterapico p/u
+1070,,,,Agente modificador de lipidos
+1071,,,,Test rapido de deteccion de glut
+1072,,,,Inic.de maduracion cervical
+1073,,,,vacuna antigripal tetravalente
+1074,,,,Potencia el crecimiento de pesta
+1075,,,,Reparador labial
+1076,,,,trat.del hiperparatiroidismo sec
+1077,,,,Polipeptido con accion ACTH
+1078,,,,Regulador energetico
+1079,,,,Antihistaminico Antipruriginoso
+1080,,,,Supl.dietario/Cuidado de la piel
+1081,,,,Crema antiage
+1082,,,,Gastroprocinetico
+1083,,,,Anticuerpo monoclonal
+1085,,,,Agonista selectivo de los recept
+1086,,,,Antiacneico Bactericida Antiinfl
+1087,,,,Psicoanaleptico Anticolinesteras
+1088,,,,Antifungico
+1089,,,,Trat.hiperkalemia e hiperfosfate
+1090,,,,Inhibidor de las enzimas poli AD
+1091,,,,Agente selectivo de union a bloq
+1092,,,,Antiespasmodico urinario
+1093,,,,Trat.p/tirosinemia tipo I
+1094,,,,Trat.cistinosis
+1095,,,,Analgesico opioide
+1096,,,,Exfoliante dermico
+1097,,,,Anestesico Antibiotico Antisepti
+1098,,,,Trat.del eccema atopico
+1099,,,,inhalatorio para uso sistemico
+1100,,,,Antialergico Antiinflamatorio An
+1101,,,,Medicamento Herbario
+1103,,,,Antineoplasico. Inhibidor de la
+1104,,,,Chaperona farmacologica
+1105,,,,Trat.nutricional de pacientes fi
+1106,,,,Trat.de la hiperamonemia
+1108,,,,Diuretico. Antagonista de la vas
+1109,,,,Trat.de errores congenitos
+1110,,,,purificador
+1111,,,,Trat.queratosis actinica (QA)
+1112,,,,Anti Edad
+1113,,,,Inmunoterapia
+1114,,,,Inhibidor no-competitivo del rec
+1115,,,,Trat.eritema facial
+1116,,,,Trat.sindrome de intestino corto
+1117,,,,Trat.enferm.causada por SARS-CoV
+1118,,,,Anestesico opioide
+1119,,,,Terapia de reemplazo enzimatico
+1120,,,,Trat.osteoporosis
+1121,,,,Trat.homocistinuria
+1122,,,,Antagonista CGRP
+1123,,,,Antiag.plaq. Hipolipem. Antihipe
+1124,,,,Estabilizador transtiretina (TTR
+1125,,,,Profilaxis hepatitis A
+1126,,,,Reparacion epidermica vulvo-vagi
+1127,,,,Producto Cosmetico
+1128,,,,Test p/ deteccion del antigeno d
+1129,,,,Antibioticoterapia para H.Pylori
+1130,,,,Agente hematologico
+1131,,,,Trat.mucopolisacaridosis tipo VI
+1133,,,,Modificador del empalme SMN2
+1134,,,,Trat.mielofibrosis
+1135,,,,Vacuna contra herpes zoster
+1136,,,,Ectoparasiticida Pediculicida
+1137,,,,Antiprogestageno
+1138,,,,Antagonista selc. recep. branqui
+1139,,,,Antagonista de aldosterona
+1140,,,,Trat.enf. Gauher tipo 1
+1141,,,,Secretagogo de mucinas-ojo seco
+1142,,,,Vacuna tetravalente contra el de
+1143,,,,Relajante psicofisico
+1145,,,,Facilitador del sueño
+1146,,,,Inductor del sueño, analgesico
+1147,,,,Antineoplasico Inmunomodulador
+1148,,,,Vacuna contra COVID-19
+1149,,,,Vacuna contra el virus sincicial
+1150,,,,trat.del lupus eritematoso
+1151,,,,Espuma de limpieza oftalmica
+1152,,,,Antibiotico Antiinfl.Antimicot.t
+1153,,,,Trat. alergia severa (APLV)
+1154,,,,Inhibid.de la miosina cardiaca
+1155,,,,Inhibidor de la TYK2
+1156,,,,Inhibidor de la señalizacion de
+1157,,,,Trat.de atrofia muscular espinal
+1158,,,,Trat. de la amurosis congenita d
+1159,,,,Ag.contra obstruccion de vias re
+1160,,,,Caramelo natural
+1161,,,,Test p/ deteccion del Ag.Cov-19/
+1162,,,,Ag.diag.funcion hipofisiaria
+1163,,,,Probioticos
+1164,,,,Humectante postparto
+1165,,,,Inhibidor del complemento
+1166,,,,Trat.hipertrofia prostatica beni
+1167,,,,Trat.candidiasis
+1168,,,,Tratamiento HPV
+1169,,,,Trat.enzimatico
+1170,,,,Trat. adultos con policitemia ve
+1171,,,,Quelante de cobre
+1172,,,,Trat.polineuropatia
+1173,,,,Antiulceroso peptico
+99996,,,,*** Importados ***
+99997,,,,*** Sin Troquel ***
+99998,,,,*** Psicotropicos ***
+99999,,,,*** Venta Libre ***

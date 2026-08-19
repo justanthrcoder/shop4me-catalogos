@@ -1,0 +1,1115 @@
+﻿0000,,,,Varios
+0001,,,,Abbott
+0002,,,,Géminis
+0004,,,,Laboratorio Alb
+0005,,,,Alcon
+0006,,,,Elvetium Alet
+0007,,,,Austral
+0008,,,,Vitanatural
+0009,,,,Andrómaco
+0011,,,,Apolo
+0012,,,,Argentia
+0013,,,,Ariston
+0015,,,,Botiven
+0017,,,,Aulo Gelio Arg.
+0018,,,,Eurofarma
+0019,,,,Bonru Perel
+0021,,,,Bagó
+0022,,,,Laboratorios Fe
+0023,,,,Baliarda
+0025,,,,Benitol
+0026,,,,Argenova Farm
+0027,,,,Italo-C
+0028,,,,Bayer
+0029,,,,Billiet
+0030,,,,Biol
+0032,,,,Beta
+0035,,,,Roche Diag.
+0036,,,,Boehringer Inge
+0037,,,,Bouzen
+0038,,,,Reckitt Benckis
+0039,,,,Takeda
+0040,,,,Corion
+0042,,,,Cosmética Médic
+0043,,,,Cabuchi
+0044,,,,Cachamai
+0045,,,,Casasco
+0046,,,,Cassará
+0047,,,,Celtia
+0048,,,,Cetus
+0049,,,,Novartis
+0051,,,,Cimpion
+0052,,,,Pablo Márquez
+0053,,,,Climax
+0054,,,,Corbaplant
+0055,,,,Costec
+0056,,,,Craveri
+0057,,,,Cyclina
+0058,,,,Dallas
+0060,,,,Defuen
+0061,,,,L.D.A.
+0064,,,,Klonal
+0065,,,,Dulkré
+0066,,,,Columbia
+0067,,,,Domínguez
+0069,,,,DNR Farma
+0071,,,,Dromicap
+0072,,,,Drawer
+0073,,,,Dumont
+0074,,,,Duncan
+0076,,,,Dupomar
+0077,,,,Valeant Argenti
+0078,,,,El Monje
+0079,,,,Elea (inactivo)
+0080,,,,E. J. Gezzi
+0081,,,,Karphos
+0082,,,,Esme
+0083,,,,Reig
+0084,,,,Ethicus
+0085,,,,Ewe
+0086,,,,Electroquímica
+0087,,,,Fabra
+0088,,,,Fada Pharma
+0091,,,,Farmaquim
+0092,,,,Fecofar
+0093,,,,Lapafer
+0094,,,,Fidex
+0095,,,,Finadiet
+0097,,,,Filaxis
+0098,,,,LKM
+0099,,,,Fortbenton
+0100,,,,Millet-Franklin
+0101,,,,Fucus
+0102,,,,Iris
+0103,,,,Gador
+0104,,,,Schwabe
+0105,,,,Apifed
+0106,,,,Bacteriol
+0107,,,,GlaxoSmithKline
+0108,,,,Gobbi
+0109,,,,Gordon
+0110,,,,Gramón
+0111,,,,Gray
+0112,,,,Hautel
+0113,,,,Hemoderivados
+0114,,,,Heredia
+0115,,,,Hetty
+0116,,,,H. Médica Argen
+0118,,,,R.P.Scherer
+0119,,,,Medipharma
+0120,,,,AstraZeneca
+0121,,,,International P
+0122,,,,Baxter Argentin
+0123,,,,Incaico
+0124,,,,Ingram
+0125,,,,Investi
+0126,,,,Veinfar
+0127,,,,Janssen-Cilag
+0128,,,,Lagos
+0129,,,,Nutricia-Bagó
+0130,,,,Knoll
+0131,,,,Wyeth
+0132,,,,LBA Farma
+0134,,,,Lacefa
+0135,,,,Lafage
+0136,,,,Lando
+0137,,,,Laboratorio Mer
+0138,,,,Lazar
+0140,,,,Lepetit
+0141,,,,Lersan
+0142,,,,Linfar
+0143,,,,Liqrem
+0144,,,,Abbvie
+0145,,,,Química Luar
+0146,,,,Martian
+0147,,,,Massone
+0148,,,,Mead Johnson
+0149,,,,Grupo Andino
+0150,,,,Medical's P.
+0151,,,,Merck Serono
+0152,,,,Merck Sharp & D
+0153,,,,Sanofi Health A
+0154,,,,Monserrat
+0155,,,,Mertens ***BAJA
+0156,,,,Serch
+0157,,,,Laboratorios Be
+0158,,,,New Pharma
+0160,,,,Piper Pol
+0162,,,,Montpellier
+0164,,,,Naf
+0165,,,,Neo-Dermos
+0166,,,,Nestle
+0167,,,,Epicaris
+0169,,,,Northia
+0170,,,,Drog. Martin
+0171,,,,Omega
+0172,,,,Organon Arg.
+0173,,,,Oriental
+0175,,,,Pasteurine
+0177,,,,Parke Davis
+0178,,,,Gurfi
+0179,,,,Pfizer
+0180,,,,Phoenix
+0182,,,,Pérez
+0183,,,,Plos
+0184,,,,Poen
+0185,,,,Promeco
+0186,,,,Post Chirurg
+0187,,,,Beresa
+0188,,,,Purissimus
+0189,,,,Odol
+0190,,,,Química Medical
+0191,,,,Roux Ocefa
+0192,,,,Adium
+0193,,,,Megalabs Argent
+0194,,,,Richmond
+0196,,,,Richet
+0199,,,,Rioplatense
+0200,,,,Rontag
+0201,,,,Rivero
+0202,,,,Roche
+0203,,,,Roemmers
+0205,,,,Rigecin
+0206,,,,S.Antonio
+0207,,,,Soubeiran Chobe
+0209,,,,Pharma Argentin
+0211,,,,Novartis-Sandoz
+0212,,,,Sanitas
+0213,,,,Sant Gall
+0214,,,,Bayer (PH)
+0216,,,,Serono
+0217,,,,Sidus
+0218,,,,Sildor
+0219,,,,Sintesina
+0221,,,,Maigal
+0222,,,,Spedrog Caillon
+0223,,,,Stafford
+0224,,,,Stiefel Arg.
+0225,,,,Teingro
+0226,,,,Trb-Pharma
+0228,,,,Szama
+0229,,,,Temis-Lostaló
+0230,,,,Schering-Plough
+0231,,,,SmithKlineBecch
+0232,,,,Farmagal
+0233,,,,IMA
+0234,,,,Vent 3
+0235,,,,Microsules Arg.
+0238,,,,Villar
+0239,,,,Vita
+0240,,,,Volpino
+0241,,,,Waco
+0242,,,,Walker
+0244,,,,Welt
+0245,,,,Weltrap
+0246,,,,Asmopul
+0247,,,,Wyeth Div.CHC
+0248,,,,York
+0249,,,,Androsa
+0250,,,,Novofarma
+0251,,,,Asofarma
+0252,,,,Elvetium
+0254,,,,Vondermix
+0255,,,,Sivaderm
+0256,,,,Plumbland Holdi
+0257,,,,Bristol
+0258,,,,Gastón Giscard*
+0259,,,,Servier
+0260,,,,Trb-Pharma
+0261,,,,Galien
+0262,,,,LAIF
+0263,,,,Szabó
+0264,,,,Trb-Pharma
+0266,,,,Dharam Singh
+0267,,,,Inmunolab
+0268,,,,Dexter
+0269,,,,Sancor
+0270,,,,Framingham Phar
+0271,,,,Natufarma
+0272,,,,Barone
+0273,,,,Aspen
+0274,,,,C.G.C.
+0275,,,,5J
+0276,,,,Delta Farma
+0277,,,,Image
+0278,,,,Romeca
+0281,,,,Farmpur
+0282,,,,Laboratorios Fr
+0283,,,,Quin-Farma
+0284,,,,Pyam
+0287,,,,Tuteur
+0290,,,,Del Bel
+0291,,,,Butyl
+0294,,,,Experientia
+0297,,,,Grifols
+0298,,,,Abello
+0299,,,,Assistance
+0300,,,,Argenfarma
+0301,,,,Pavlova
+0302,,,,Dissa
+0303,,,,Garden House Ar
+0304,,,,Euroderm
+0305,,,,Justesa Imagen
+0306,,,,Survival
+0307,,,,Bel Cos
+0308,,,,Inpar
+0310,,,,Futerman Intern
+0311,,,,Typen
+0312,,,,Denver Farma
+0313,,,,Elisium
+0314,,,,Del Sol
+0315,,,,Dasipa
+0316,,,,Química Estrell
+0317,,,,Anzon
+0318,,,,Tecnonat
+0319,,,,Brouwer
+0320,,,,Biotenk
+0321,,,,Galderma
+0322,,,,Playboy
+0324,,,,Vianature
+0325,,,,Laborit
+0326,,,,Impovit
+0328,,,,Vannier
+0330,,,,Prodava
+0332,,,,D.Sam-L.Chile
+0333,,,,Fapromed
+0334,,,,Derclee
+0335,,,,Quimisal
+0336,,,,Drog. Argentina
+0337,,,,Newark
+0338,,,,La Roche-Posay
+0339,,,,Pack Seal
+0340,,,,Jamerar
+0341,,,,Fimotec
+0342,,,,Britania
+0343,,,,Rigó
+0344,,,,Pharmatrix
+0345,,,,Ciba Vision
+0346,,,,Danes Internac.
+0347,,,,Clark
+0348,,,,Juplast
+0349,,,,Step Arg.
+0350,,,,Protecno Labofa
+0351,,,,Broni
+0353,,,,Eli Lilly
+0354,,,,Gillette
+0355,,,,Scidia
+0356,,,,3 M
+0357,,,,Gemepe
+0358,,,,Guerbet Argenti
+0359,,,,Rhone Poulenc
+0361,,,,Arion
+0362,,,,Lasifarma
+0364,,,,Ferring
+0365,,,,Forder
+0366,,,,Dr. Madaus
+0367,,,,Puebla
+0368,,,,Natura Vigor
+0369,,,,Ecopharma
+0370,,,,Cartilade Arg.
+0371,,,,H y R
+0372,,,,ISA
+0373,,,,Prímula
+0374,,,,Combe
+0375,,,,G.A.D. Internac
+0376,,,,Rider
+0378,,,,Biocontrol
+0380,,,,Bionatural
+0381,,,,Grimberg
+0382,,,,Kenvue Argentin
+0383,,,,Biocrom
+0384,,,,Promocrystal Ar
+0385,,,,Varifarma
+0386,,,,Bioprofarma Bag
+0388,,,,Platters
+0389,,,,Protecnoar
+0390,,,,Twinlab-Watley
+0391,,,,Celina
+0392,,,,Crema de Ordeñe
+0393,,,,Duncan-Fimotec
+0394,,,,Bacon
+0395,,,,Laboratorio ENA
+0397,,,,Lafedar
+0398,,,,Lafarmen
+0400,,,,Córdoba
+0401,,,,Nucleosan
+0402,,,,C N S
+0404,,,,Scott-Cassará
+0405,,,,Donato Zurlo
+0406,,,,Fabelmet
+0407,,,,La Fármaco Arg.
+0409,,,,Paul Hnos.
+0410,,,,Toril
+0411,,,,Colgate
+0413,,,,Baxter
+0414,,,,Imvi
+0415,,,,Dronor
+0419,,,,Wunder Pharm
+0420,,,,Ugau
+0421,,,,Dermosoluxion
+0422,,,,Interbelle Cosm
+0423,,,,Vichy
+0424,,,,Lemos
+0425,,,,Priroda
+0427,,,,Source Naturals
+0429,,,,Rhodia/Scott Ca
+0431,,,,Axcan Difa
+0432,,,,Piel Vital
+0435,,,,Litex
+0436,,,,Nycomed Amersha
+0437,,,,Bio-Labo
+0438,,,,Gaveteco
+0439,,,,Natural Health
+0440,,,,Ofar
+0441,,,,Knop
+0442,,,,Dr.Preston
+0444,,,,Novo Nordisk
+0445,,,,Ceade
+0446,,,,Biogam
+0448,,,,Ferrer
+0449,,,,Biferdil
+0450,,,,Neosol
+0453,,,,Productos Salud
+0454,,,,Enzimas
+0455,,,,Talcris
+0456,,,,Naturalis
+0459,,,,G & M
+0460,,,,PGN
+0461,,,,Jergens
+0462,,,,Marck Up
+0463,,,,New Concept
+0464,,,,Landi
+0465,,,,Dos B
+0466,,,,Panalab
+0467,,,,Coloplast
+0468,,,,La Serranita
+0469,,,,Natural Life
+0470,,,,Kamp Dental
+0471,,,,Procter & Gambl
+0472,,,,Kedrion-Scott C
+0473,,,,Sertex
+0475,,,,Valles de Aloe
+0476,,,,Dosa
+0477,,,,Beiersdorf
+0478,,,,Eczane
+0479,,,,Weleda
+0481,,,,Medinova
+0482,,,,Zine/Mimetix
+0484,,,,Mentholatum
+0485,,,,Grünenthal
+0486,,,,Brassora
+0487,,,,Boxalpharma
+0488,,,,Omedir
+0489,,,,Pharma del Plat
+0490,,,,Kröne Arg.
+0491,,,,Nort
+0492,,,,WR
+0493,,,,Fabop
+0495,,,,Sojar
+0496,,,,A.M. Farma Acti
+0497,,,,Kerofarma
+0498,,,,Elea
+0499,,,,Mar
+0500,,,,Gemepe-Medinova
+0502,,,,Crealko
+0503,,,,Bbraun
+0504,,,,Cevallos
+0507,,,,Prolife
+0508,,,,Ingens
+0509,,,,Pierre Fabre Mé
+0510,,,,Pierre Fabre De
+0511,,,,Elhoim
+0512,,,,Key Pharma
+0513,,,,Medimar-Fidex
+0514,,,,Farmoterapia
+0515,,,,Excelentia
+0516,,,,Cinetic
+0517,,,,Norgreen
+0518,,,,Teva Argentina
+0521,,,,Neuropharma
+0523,,,,Biotech Farma *
+0524,,,,Matersan
+0525,,,,Bausch & Lomb A
+0526,,,,Dist.Villa Luro
+0527,,,,Johnson & Johns
+0528,,,,C & V Internac.
+0529,,,,Indeco
+0530,,,,Prieto
+0531,,,,Biofar-Bioder
+0532,,,,Amenite
+0533,,,,Valmax
+0534,,,,Corpus
+0535,,,,G & M Cosmética
+0536,,,,Shabba
+0538,,,,Feel Young
+0539,,,,Capilatis ****
+0540,,,,Tanki
+0541,,,,Hexil
+0542,,,,Hannah Collins
+0543,,,,Hiperfarm
+0544,,,,GenTech
+0545,,,,Biofactor
+0546,,,,Breachdan
+0547,,,,Hoyos S.M.
+0549,,,,Powergenics
+0550,,,,Pint Pharma
+0551,,,,Ferrini
+0553,,,,Dimel & Diagos
+0556,,,,Sigma
+0557,,,,Glenmark
+0558,,,,SW Pharma
+0559,,,,Merisant Argent
+0560,,,,Dentaid
+0561,,,,Hierbas del Oas
+0562,,,,Abin
+0565,,,,The Sports Comp
+0566,,,,Hoisin
+0567,,,,New Life
+0568,,,,Gador Aventis
+0569,,,,Iraola
+0572,,,,Medac
+0573,,,,Tacha Sur
+0574,,,,Ronnet
+0576,,,,All Pro Salud
+0577,,,,Valuge
+0578,,,,Krolton Pharma
+0579,,,,Paylos
+0580,,,,A.M.G. Farma
+0581,,,,Biopas Argentin
+0582,,,,CSL Behring
+0583,,,,Biokosma
+0584,,,,Gen Med
+0585,,,,Atlas-Lab Inter
+0586,,,,Novartis Consum
+0587,,,,Therafarma
+0588,,,,Global Med
+0589,,,,Bionutre
+0590,,,,Farmaderm
+0591,,,,Laboratorio Alv
+0592,,,,AMO
+0593,,,,Nativa
+0594,,,,Provinat
+0596,,,,All Lab
+0597,,,,Géminis Farmacé
+0599,,,,Pharmalab
+0600,,,,PharmaDorf
+0601,,,,Drog.Florida
+0602,,,,Pharmafem
+0603,,,,Dicofar
+0604,,,,Monte Verde
+0605,,,,JTW Pharma
+0606,,,,Monserrat-Wierh
+0608,,,,Vicami
+0609,,,,LAMSA-Frasca
+0610,,,,Patejim
+0611,,,,Vicrofer
+0612,,,,Betterlife S.R.
+0613,,,,Kron
+0615,,,,Buxton
+0616,,,,Fresenius Kabi
+0617,,,,Health Pharma
+0618,,,,All Protein
+0619,,,,Dispolab
+0622,,,,Raysan
+0623,,,,Natulab
+0624,,,,Nucleopharm
+0625,,,,Biosintex
+0626,,,,Nexo Pharmaceut
+0627,,,,Werfen Medical
+0628,,,,Penn Pharmaceut
+0629,,,,Tetrafarm
+0630,,,,Cinetic-Valuge
+0631,,,,Labonatur
+0632,,,,Roberto A.Sánch
+0633,,,,Eurolab
+0634,,,,D.G. Distribuci
+0635,,,,Labsa
+0636,,,,Drog.Garzón
+0637,,,,Mapa Vital
+0638,,,,Nutrihealth Arg
+0639,,,,Pierre Fabre Or
+0640,,,,Lesag
+0641,,,,Status Salud
+0642,,,,Unanut
+0643,,,,Genpharma
+0644,,,,Bioceutica
+0646,,,,Helen Farm
+0647,,,,Olpesce
+0648,,,,Pecomet
+0649,,,,IMD
+0650,,,,Extraloe
+0651,,,,Rospaw
+0652,,,,Adox/Indeco
+0653,,,,Pierre Fabre On
+0654,,,,Bayer Consumer
+0655,,,,Driburg
+0657,,,,Lanpharm
+0658,,,,Vitarum
+0659,,,,Altius Farmacéu
+0660,,,,Lemax
+0661,,,,Italpharma Arge
+0662,,,,Provefarma
+0663,,,,Nutricional Arg
+0664,,,,San Ceferino
+0665,,,,Savant Pharma
+0666,,,,Isdin
+0667,,,,Saturn Suppleme
+0668,,,,Novara
+0669,,,,Permatec
+0670,,,,Dermopharma
+0671,,,,Q-Pharma
+0672,,,,Laboratorio IT
+0673,,,,Amhof
+0674,,,,Bine
+0675,,,,Zasu
+0676,,,,Pualy
+0678,,,,Campo Esmeralda
+0679,,,,Nova Argentia
+0681,,,,HLB Pharma
+0682,,,,CAIF
+0683,,,,Copahue
+0684,,,,Lamsa-Biocrom
+0685,,,,Lamsa
+0686,,,,Sanifill
+0687,,,,Odontofarma
+0688,,,,Latin Plus
+0689,,,,Omicron
+0690,,,,Bioworld
+0692,,,,Li Feng
+0693,,,,Cultural Abadía
+0694,,,,BD
+0696,,,,Conifarma
+0697,,,,Pharma Group
+0698,,,,Kilab
+0699,,,,Ayurvida
+0700,,,,Nutrilef
+0701,,,,Sunstar
+0702,,,,Ecoton
+0703,,,,Sanofi-Aventis
+0704,,,,Francelab
+0705,,,,Bsderm
+0706,,,,Drog. del Sud
+0708,,,,Bionet Lab
+0709,,,,Cosinter-Red Ap
+0710,,,,Techsphere
+0711,,,,Disop/Visiontec
+0712,,,,Verminal
+0713,,,,Novamen
+0714,,,,Max Vision
+0715,,,,Genomma Lab.
+0716,,,,Eriochem
+0717,,,,Fac
+0718,,,,D.R.D S.A.
+0719,,,,Pharmamerican S
+0720,,,,Lativ
+0721,,,,Sempre Giovane
+0722,,,,F & F Farma
+0723,,,,Mi Flora
+0724,,,,Rominafort S.H.
+0725,,,,Cromoion
+0726,,,,Filaxis Farmacé
+0727,,,,Hochwertig
+0728,,,,Schafer
+0729,,,,Larco
+0730,,,,Sanofi-Aventis
+0731,,,,D & R Medical D
+0732,,,,ReAct
+0733,,,,Giscard Laborat
+0734,,,,Genser
+0735,,,,Laboratorios Ta
+0736,,,,Laboratorios Pu
+0737,,,,Nutrilab
+0738,,,,MB Distribucion
+0739,,,,Wyeth Div.VACUN
+0740,,,,Wyeth CP
+0741,,,,Microfar
+0742,,,,Biotoscana
+0744,,,,Ariston Derma
+0745,,,,AMN
+0746,,,,Bioderma
+0747,,,,Hyaltec
+0748,,,,D'armerie
+0749,,,,Pcgen
+0750,,,,Tahefarma
+0751,,,,Rossmore Pharma
+0752,,,,JorgeHane
+0753,,,,Felsan
+0754,,,,Novoplos
+0755,,,,Paradigma
+0756,,,,Biotechno Pharm
+0757,,,,Gronin One
+0758,,,,Apotex
+0759,,,,Merck
+0760,,,,Drog. Droser
+0761,,,,Novartis Vacuna
+0762,,,,Protan
+0763,,,,Laboratorio Mil
+0764,,,,Bailleul Biorga
+0765,,,,S.D.A.
+0766,,,,Merck Química
+0767,,,,Laboratorio San
+0768,,,,André Masy
+0769,,,,Pharmanove
+0770,,,,Produmedix
+0771,,,,Oxapharma
+0772,,,,Nutratec
+0773,,,,Epuyén
+0774,,,,Bioamerica Farm
+0775,,,,Aloe + Salud
+0776,,,,LKM Pharma
+0777,,,,LKM
+0778,,,,Laboratorios Io
+0779,,,,Biosidus
+0780,,,,Scott Pharma
+0781,,,,Kassel Pharmace
+0782,,,,C&R
+0783,,,,Techsphere Ofta
+0784,,,,Garre Guevara
+0785,,,,Mead Johnson Nu
+0786,,,,Daxley
+0787,,,,Everex Pharmace
+0788,,,,Formulab
+0789,,,,Toppik
+0790,,,,HG Lab.
+0791,,,,Svensk Labb
+0792,,,,G.M.B. Pharma
+0793,,,,Biobrik
+0794,,,,Cepage
+0795,,,,Iraola
+0796,,,,Straqual
+0797,,,,Lab Internacion
+0798,,,,Aminel
+0799,,,,Lab. Fiorano
+0800,,,,Acary
+0801,,,,Everex
+0802,,,,Nipro Medical C
+0803,,,,MSD Argentina S
+0804,,,,El Sol Cósmetic
+0805,,,,Medisol
+0806,,,,Savant Consumer
+0807,,,,Kuidar
+0808,,,,Generideas
+0809,,,,Pharmainco
+0810,,,,Cosmevet
+0811,,,,Laboratorios IM
+0812,,,,Valuge-Lic
+0813,,,,Gemabiotech
+0814,,,,Aerofarma
+0815,,,,Arthros
+0816,,,,Lab Internacion
+0817,,,,Plastimed
+0818,,,,Gemabiotech - E
+0819,,,,Bio Helper
+0820,,,,Ingerics
+0821,,,,Novarum Pharma
+0822,,,,B-Life
+0823,,,,Biopas Argentin
+0824,,,,Techsphere - As
+0825,,,,Eco Oil
+0826,,,,Roche Diabetes
+0827,,,,Abbott Diabetes
+0828,,,,Abbott Nutricio
+0829,,,,Abbott EPD
+0830,,,,Nutrigenomics
+0831,,,,Abbvie
+0832,,,,Dalon Perello
+0833,,,,Dux Pharm
+0834,,,,Biogen
+0835,,,,Aponor
+0836,,,,Innovapharma
+0837,,,,Mundipharma
+0838,,,,Argentina Medic
+0839,,,,Kemex
+0840,,,,Mundipharma Oft
+0841,,,,Mundipharma Dol
+0842,,,,Quality Pharma
+0843,,,,Laboratorio Bio
+0844,,,,Biotoscana Farm
+0845,,,,Laboratorio Int
+0846,,,,Celnova Argenti
+0847,,,,Federal Med
+0848,,,,Cosmeceuticals
+0849,,,,Jayor
+0850,,,,Ultra Pharma
+0851,,,,Ethical Nutriti
+0852,,,,Verrugol
+0853,,,,Bisa Consumer
+0854,,,,Delier
+0855,,,,Berpharma
+0856,,,,NutCare
+0857,,,,Synthon Bagó
+0858,,,,Biosidus S.A.U.
+0859,,,,Biosintex Retai
+0860,,,,Merz
+0861,,,,Beta Retail
+0862,,,,Heurecca Pharma
+0863,,,,Shire
+0864,,,,Novagob Pharma
+0865,,,,Nestlé Health S
+0866,,,,Cuidados Altern
+0867,,,,Vannier-Grunent
+0868,,,,Lafedar - Eurol
+0869,,,,Bagó-Arcor
+0870,,,,Lecco
+0871,,,,Pharma Alioth
+0872,,,,Tabor
+0873,,,,Amgen
+0874,,,,Seqirus
+0875,,,,Drog.Meta
+0876,,,,Eximia
+0877,,,,Pretoria
+0878,,,,Aspen Argentina
+0879,,,,MR Pharma
+0880,,,,Lab. Fin del Mu
+0881,,,,Nutraceutical
+0882,,,,Savant Vitarum
+0883,,,,IBC
+0884,,,,Sidus-Lifescan
+0885,,,,Ugal Farmacéuti
+0886,,,,Olbia Pharma
+0888,,,,Alef Medical Ar
+0889,,,,mAbxience
+0890,,,,Pharmalep S.A.
+0891,,,,Savant Generic
+0892,,,,Nutentar
+0893,,,,Celnova LH
+0894,,,,Donnax Group
+0895,,,,La Sibila
+0896,,,,Bina Pharma S.A
+0897,,,,Laboratorios Fa
+0898,,,,Takeda Argentin
+0899,,,,Celtyc
+0900,,,,Opella Healthca
+0901,,,,Supplerlabs
+0902,,,,Silfab
+0903,,,,Siegfried
+0904,,,,Dromex Biotech
+0905,,,,Drog. Farmaquio
+0906,,,,Haleon Argentin
+0907,,,,Jeianell
+0908,,,,Sophia
+0909,,,,Nolter
+0910,,,,Infinity Pharma
+0911,,,,Laboratorio WPN
+0912,,,,Valca
+0913,,,,Cannava S.E.
+0914,,,,Aspen Pharma
+0915,,,,Maverick
+0916,,,,IQUISA
+0917,,,,Laboratorios Te
+0918,,,,BeOne
+0919,,,,Trébol Cosmétic
+0920,,,,Lancaster Pharm
+0921,,,,Intencional
+0922,,,,Laboratorio Val
+0923,,,,Hollister
+0924,,,,Carina Terraneo
+0925,,,,Natugreena
+0926,,,,Bria Pharma
+0927,,,,VSA Alta Comple
+0928,,,,Amarin Technolo
+0929,,,,Biohope Pharmac
+0930,,,,Kriler
+0931,,,,Biosintex Tr. E
+0933,,,,Nutri Care
+0934,,,,Genzyme de Arge
+0935,,,,Wellspect
+0936,,,,Lesmaher
+0937,,,,Nutrivate
+0938,,,,Fitoplasma
+0939,,,,Gasana
+0940,,,,Vivacy
+0941,,,,Calihepat
+0942,,,,Laboratorio Dic
+0943,,,,JCZT SRL
+0944,,,,Convatec
+0945,,,,Delgim
+0946,,,,New PGA S.R.L.
+0948,,,,Sidus Dermocosm
+0949,,,,Theo Manuf. BV
+0950,,,,Prodiet Medical
+0951,,,,Laboratorio New
+0952,,,,Air Liquide Arg
+0954,,,,Rubifarm
+0955,,,,Addvance
+0956,,,,Biohelper
+0957,,,,Go Functional S
+0958,,,,Reactivos SRL
+4001,,,,BEURER
+4002,,,,DEPIMIEL S.R.L
+4003,,,,MIZU
+4004,,,,AVENT(parallel)
+4005,,,,BABELITO
+4006,,,,BABY INN-KUIDAR
+4007,,,,BANDER GREEN
+4008,,,,ALGOD.ACONCAGUA
+4009,,,,BASICARE
+4010,,,,PRIFAMON
+4011,,,,LYSI-CY MEDICAA
+4012,,,,BIFERDIL
+4013,,,,BIOCLEAN
+4014,,,,BLISTER
+4015,,,,BODY CARE
+4016,,,,BOWEN-PERCOS
+4017,,,,CANNON
+4018,,,,CAPILATIS
+4019,,,,CASAMAR
+4020,,,,CHICCO(parallel
+4021,,,,COLGATE CEPILLO
+4022,,,,COMBE
+4023,,,,NEWSAN
+4024,,,,PROCTER B.BAJAS
+4025,,,,REVLON DE ARG.
+4026,,,,DCC
+4027,,,,DIFFUPAR
+4028,,,,SKIN 1004
+4029,,,,REMINGTON
+4030,,,,EMAIL DIAMANT
+4031,,,,VANTA
+4032,,,,ESTRELLA-BUYANO
+4033,,,,EUCERIN
+4034,,,,COTY
+4035,,,,EXIMIA
+4036,,,,ENERGIZER
+4037,,,,NUTREX
+4038,,,,FORMATO
+4039,,,,F.SELECT.FEM
+4040,,,,FULLPACK
+4041,,,,JOHNSON BAJAS
+4042,,,,P.FABRE BAJAS
+4043,,,,GEL POCKET
+4044,,,,BIOGLOSSE
+4045,,,,GLAXO
+4046,,,,GOLOSINAS
+4047,,,,Genomma Asepxia
+4048,,,,GRIMBERG DENT.
+4049,,,,GRUPO MONJES S.
+4050,,,,HISAN
+4051,,,,BROWN BEE
+4052,,,,INECTO
+4054,,,,ISDIN
+4055,,,,LAB.CUENCA
+4056,,,,HGL.ORGANIKAL
+4057,,,,JACTANS
+4058,,,,JOHNSON
+4059,,,,EUCERIN BAJAS
+4060,,,,WPN
+4061,,,,KIMBERLY-CLARK
+4062,,,,DROGAL
+4063,,,,LA FARMACO
+4064,,,,LA ROCHE POSAY
+4065,,,,LAB SELMA
+4066,,,,LABORIT
+4067,,,,LENOX
+4068,,,,LOREAL MAQ.
+4069,,,,LOREAL MASIVO
+4070,,,,MAYBELLINE
+4071,,,,GAMA BELLEZA
+4072,,,,EXIMIA BAJAS
+4073,,,,MOBILE
+4074,,,,TENACTA BELLEZA
+4075,,,,NEED FOR PLAST
+4076,,,,NEUTROGENA
+4077,,,,NIVEA
+4078,,,,LENTERDIT S.A.
+4079,,,,MASIVO
+4081,,,,SANADROG
+4082,,,,OFAR (MIDERMUS)
+4083,,,,OMRON
+4084,,,,LA PUISSANCE
+4085,,,,PELLIZA
+4086,,,,HAWAIN TROPIC
+4087,,,,PIERRE FABRE
+4088,,,,PROCTER BARBER
+4089,,,,LOREAL
+4090,,,,THE GLOW FACTOR
+4091,,,,PURA SOAP
+4092,,,,BIODERMA BAJAS
+4093,,,,RECKITT
+4094,,,,RIASA
+4095,,,,RIMMEL
+4096,,,,PRIME (BUHL)
+4097,,,,NEWSAN BELLEZA
+4098,,,,ROC
+4099,,,,SILFAB BELLEZA
+4100,,,,S.C.JOHNSON
+4101,,,,SAINT JULIEN
+4102,,,,SALLY HANSEN
+4103,,,,S.UP BAJAS
+4104,,,,SAPORITI
+4105,,,,SERVICIOS
+4106,,,,SILFAB
+4107,,,,SISCOM
+4108,,,,F.SELECT.MEN
+4109,,,,SUNSTAR (GUM)
+4110,,,,SYRA
+4111,,,,TENACTA
+4112,,,,UNILEVER C.CAP.
+4113,,,,VICHY
+4114,,,,VOGUE
+4115,,,,LAPPIEL LAB.
+4116,,,,VITA BIOSA
+4117,,,,MAVERICK
+4118,,,,MAXX (BUHL)
+5000,,,,PROPIOS FARMA
+5001,,,,STAR NUTRITION
+5002,,,,MAS
+5003,,,,MENOS
+5004,,,,CAVIAHUE
+5006,,,,GENOMMA BAJAS
+5007,,,,KONJAC
+5008,,,,PUREDERM
+5009,,,,SWEET ORANGE
+5010,,,,GAMA (ARIMEX)
+5011,,,,HEALTH CARE SUD
+5012,,,,KINEMED S.A.
+5013,,,,MICROLIFE
+5014,,,,VITIX-INTERPROX
+5015,,,,W.SUPPLEMENTS
+5016,,,,CRAFTMEN
+5017,,,,FUSION BAG
+5018,,,,STANLEY
+5019,,,,FULTON
+5020,,,,SPORTHESIS S.A.
+5021,,,,MERAKI
+5022,,,,NATURE'S BOUNTY
+5023,,,,COSMET.&BELLEZA
+5024,,,,VMP S.A.
+5025,,,,WAHL
+5026,,,,TEKNIKPRO
+5027,,,,LUVION
+5028,,,,PHILIPS
+5029,,,,CRINWAY
+5030,,,,DISBYTE
+5031,,,,ATOMPROTEC
+5032,,,,GERATHERM
+5033,,,,SEISEME
+5034,,,,NANODAK
+5035,,,,NATIER
+5036,,,,MUSTELA
+5037,,,,GO SMART
+5038,,,,IDRAET
+5039,,,,CERAVE
+5040,,,,GAMA BARB/DEP
+5041,,,,GLAM DIST.
+5042,,,,DERMOGREEN
+5043,,,,BANANA BOAT
+5044,,,,ZONO
+5045,,,,NEWSAN BARB/DEP
+5046,,,,CETAPHIL
+5047,,,,COLGATE CREMA
+5048,,,,COLGATE ENJ.B
+5049,,,,COLGATE JABON
+5050,,,,UNILEVER DENTAL
+5051,,,,UNILEVER C.PIEL
+5052,,,,UNILEVER FACIAL
+5053,,,,WOMAN
+5054,,,,UNILEVER DEO M
+5055,,,,UNILEVER DEO W
+5056,,,,UNILEVER HIGIE.
+5057,,,,UNILEVER BEBE
+5058,,,,PROCTER BEBE
+5059,,,,PROCTER CAPILAR
+5060,,,,BIOBELLUS
+5061,,,,PROCTER HIGIENE
+5062,,,,GENNUINE
+5063,,,,GLAM BAJAS
+5064,,,,UNILEVER BAJAS
+5065,,,,PROCTER BAJAS
+5066,,,,F.SEMI.FEM
+5067,,,,F.SEMI.MEN
+5068,,,,VALUGE BAJAS
+5069,,,,LOVELI ANTEOJOS
+5070,,,,Genomma Cicatr.
+5071,,,,Genomma Goico.
+5072,,,,Genomma Next
+5073,,,,Genomma Teatr.
+5074,,,,Genomma T.Nacho
+5075,,,,Genomma Triatop
+5076,,,,GLAXO BAJAS
+5077,,,,COLGATE BAJAS
+5078,,,,TRUST
+5079,,,,BY-SHE
+5080,,,,TIGI
+5081,,,,FYNUTRITION
+5082,,,,VITALIS NAVITAS
+5083,,,,SILFAB MOVILIDA
+5084,,,,KYOJIN
+5085,,,,MERVICK
+5086,,,,NUK
+5087,,,,THE PROTEIN LAB
+5088,,,,BODY ADVANCED
+5089,,,,LEGUILAB
+5090,,,,CELEBRITY
+5091,,,,CONTIGO
+5092,,,,HGL.VITALUM
+5093,,,,BRIA SNACK
+5094,,,,LOREAL M.BAJAS
+5095,,,,LOREAL BAJAS
+5096,,,,FIRST RATE S.A.
+5097,,,,ISDIN BAJAS
+5098,,,,ITALIAN BEAUTY
+5099,,,,MAVERICK BELLEZ
+5100,,,,DIABLA
+5101,,,,KIMBERLY BAJAS
+5102,,,,CETAPHIL BAJAS
+5103,,,,MASIVO BAJAS
+5104,,,,VICHY BAJAS
+5105,,,,LA ROCHE BAJAS
+5106,,,,NIVEA BAJAS
+5107,,,,BABYLISS
+5108,,,,THE MINIMAL CO
+5109,,,,THE CHEMIST LOK
+5110,,,,KOSMOS COSMETIS
+5111,,,,NUXE
+5112,,,,SO CUTE
+5113,,,,VGR
+5114,,,,GOLD NUTRITION
+5115,,,,VITAWELLNESS
+5116,,,,ORMUS
+5117,,,,DABAR
+5118,,,,PURE VIA
+5119,,,,REVOX 877
+5120,,,,PRIMONT
+5121,,,,MYPROTEIN
+5122,,,,SUNDANCE
+5123,,,,CEPAGE BAJAS
+5124,,,,BYDORYS
+5125,,,,SAN UP
+5126,,,,ENA NATULIV
+5127,,,,ENA ENACCION
+5128,,,,ENA VITALGEN
+5129,,,,ANUA
+5130,,,,LABS NUTRITION
+5131,,,,ASOBU
+5132,,,,Genomma Groomen
+5133,,,,COLEMAN
+5134,,,,WATERDOG
+5135,,,,THERMOS
+5136,,,,SUPLARIS
+5137,,,,VEGANIS
+5138,,,,TONEKIN
+5139,,,,FORMULY PIEL
+5140,,,,EMBRYOLISSE
+5141,,,,TWISTSHAKE
+5142,,,,MEDELA
+5143,,,,COSRX
+5144,,,,MEDICUBE
+5145,,,,TORTULAN
+5146,,,,RAYITO DE SOL
+5147,,,,FILOMENA
+5148,,,,WET N WILD
+5149,,,,BHYPASSE
+5150,,,,LURE
+5151,,,,EVIAN
+5152,,,,PROCTER DEO
+5153,,,,PROCTER DENTAL
+5154,,,,ICARE
+5155,,,,PHARMAIM S.A.
+5156,,,,CANTABRIA LABS
+5157,,,,BUBBA
+5158,,,,DERMADVANCE
+5159,,,,CAVIAHUE BAJAS
+5160,,,,GRIMBERG BAJAS
+5161,,,,ANDROMACO BAJAS
+6001,,,,MAGISTRAL
